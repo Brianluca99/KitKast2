@@ -3,8 +3,8 @@
 
 
 body::before{
-  content: "" ;
-  background-image: url(files/sala-de-podcast-com-cadeiras-e-mesa-pombo-isolado-no-fundo-branco-generative-ai_123447-18036.jpg);
+  content:"";
+  background-image: url(files/desktop-podcast.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -19,7 +19,7 @@ body::before{
 
 body {
 height: 100vh;
-background-color: rgba(2, 2, 2, 0.96);
+background-color: rgba(15, 14, 14, 0.845);
 display: flex;
 align-items: center;
 justify-content: center;
