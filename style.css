@@ -96,12 +96,13 @@ body {
     width: 100%;
     max-width: 330px;
     max-height: 790px;
-    margin-top: -18px;
+    margin-top: 5px;
   }
 
 .card-image {
   height: 180px;
-  width: none;
+  width: 100%;
+  max-width: 790px;
 }
   
 }
