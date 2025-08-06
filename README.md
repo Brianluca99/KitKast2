@@ -1,5 +1,5 @@
 # Kit Kast
-![preview](./kast.png)
+![preview](./files/kast.png)
 
 Projeto construído com player de som, simulando um podcast com assunto referente a direito de família.
 
